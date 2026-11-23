@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API REST de turnos - Servicio técnico de computadores
 
 Proyecto académico para el taller evaluativo final de Arquitectura Cliente-Servidor. La API está desarrollada con Node.js y Express y separa las responsabilidades en `routes`, `controllers` y `services`.
@@ -209,3 +210,7 @@ El archivo `.gitignore` excluye `node_modules`, por lo que se debe entregar `pac
 ---
 
 **Pendiente antes de entregar:** confirmar los integrantes, corregir el N provisional en `config/parametros.js` y en este README, y verificar que el caso de negocio elegido corresponda a un servicio real que el equipo pueda explicar.
+=======
+# APIREST
+Proyecto de arquitectura ApiRest
+>>>>>>> 896c70357347463778a681e2f18b0ae510db96d2
