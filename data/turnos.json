@@ -1,0 +1,15 @@
+[
+  {
+    "id": "2cda496c-0879-4560-857d-36b5ae249355",
+    "cliente": "Santiago Ceballos",
+    "tipoServicio": "Mantenimiento preventivo",
+    "fechaHora": "2026-11-25T09:30:00",
+    "precioBase": 100000,
+    "prioritario": true,
+    "porcentajeRecargoConfigurado": 16,
+    "porcentajeRecargoAplicado": 16,
+    "valorRecargo": 16000,
+    "totalPagar": 116000,
+    "creadoEn": "2026-11-23T01:56:31.623Z"
+  }
+]

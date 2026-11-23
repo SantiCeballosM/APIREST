@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/package",
+  "name": "api-turnos-servicio-tecnico",
+  "version": "1.0.0",
+  "description": "API REST por capas para gestionar turnos de un servicio tecnico de computadores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["api", "rest", "express", "arquitectura-por-capas", "turnos"],
+  "author": "Equipo de Arquitectura de Software",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
